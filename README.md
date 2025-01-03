@@ -8,6 +8,12 @@ The workflow has been displayed as below.
 
 ![Alt text](./A5AD6FAD-AB91-4A97-A340-C646FF5A86FF.png?raw=true "Optional Title")
 
+The agent component design is shown down below.
+
+![Alt text](./Screenshot.png?raw=true "Optional Title")
+
+
+
 ## Python Script: `customer_service_agent.py`
 
 The `customer_service_agent.py` script is the core component of this project. It is responsible for processing client queries and providing accurate responses based on the stored product policies.
