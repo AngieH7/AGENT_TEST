@@ -3,8 +3,7 @@ from dotenv import load_dotenv
 _ = load_dotenv()
 
 from langgraph.graph import StateGraph, END
-from typing import TypedDict, Annotated, List
-import operator
+from typing import TypedDict, List
 from langgraph.checkpoint.sqlite import SqliteSaver
 from langchain_core.messages import AnyMessage, SystemMessage, HumanMessage, AIMessage, ChatMessage
 
